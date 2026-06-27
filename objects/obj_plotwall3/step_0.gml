@@ -1,0 +1,1 @@
+if global.plot>8.55 then instance_destroy()

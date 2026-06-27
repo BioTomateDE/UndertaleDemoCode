@@ -1,0 +1,1 @@
+firingspeed=global.firingrate
